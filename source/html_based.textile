@@ -119,7 +119,7 @@ We've got our model and controller set up, so let's move on to the fun part: cre
 interface for our users. The first step is to create a text field into which the user types
 the name of their todo.
 
-To start building our views, let's open +resources/templates/app.handlebars+ and add
+To start building our views, let's open +resources/templates/todos.handlebars+ and add
 some markup:
 
 <html filename="todos.handlebars">
